@@ -27,7 +27,7 @@
     "bootstrap": "^4.0.0",
     "chartist": "^0.11.0",
     "chartist-plugin-tooltips": "0.0.17",
-    "datatables.net": "^1.10.16",
+    "datatables.net": "^1.11.3",
     "dragula": "^3.7.2",
     "dropzone": "^5.2.0",
     "fullcalendar": "^3.4.0",
